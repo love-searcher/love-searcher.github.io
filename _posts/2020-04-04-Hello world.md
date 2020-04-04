@@ -10,7 +10,6 @@ tags:
     - blog
 ---
 
-# qianyan
-emmm
+# 前言
 
-hhh
+这是最初的blog，希望之后可以不断完善。
