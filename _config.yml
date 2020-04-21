@@ -11,7 +11,7 @@ github_repo: "https://github.com/love-searcher/love-searcher.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一只还在挣扎的咸鱼"
+sidebar-about-description: "higher"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
